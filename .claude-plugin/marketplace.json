@@ -1,0 +1,23 @@
+{
+  "name": "growfast-plugins",
+  "description": "Claude Code plugins from GrowFast (growfast.sh).",
+  "owner": {
+    "name": "GrowFast",
+    "email": "support@growfast.sh",
+    "url": "https://growfast.sh"
+  },
+  "plugins": [
+    {
+      "name": "growfast",
+      "source": "./plugins/growfast",
+      "description": "Find B2B customers: scan a product site, draft emails to named decision-makers and listen on Reddit. Drafts only; nothing is sent or posted.",
+      "category": "productivity",
+      "tags": [
+        "lead-generation",
+        "outreach",
+        "reddit",
+        "mcp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "growfast",
+  "displayName": "GrowFast",
+  "version": "1.0.0",
+  "description": "Find B2B customers from Claude Code: scan a product site, draft emails to named decision-makers and listen on Reddit. Drafts only; nothing is sent or posted.",
+  "author": {
+    "name": "GrowFast",
+    "email": "support@growfast.sh",
+    "url": "https://growfast.sh"
+  },
+  "homepage": "https://growfast.sh/docs",
+  "repository": "https://github.com/airdropfi/growfast-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "lead generation",
+    "b2b leads",
+    "cold email",
+    "ideal customer profile",
+    "reddit",
+    "mcp"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://growfast.sh/docs",
+  "supportUrl": "https://growfast.sh",
+  "privacyPolicyUrl": "https://growfast.sh/legal/privacy",
+  "termsOfServiceUrl": "https://growfast.sh/legal/terms"
+}
